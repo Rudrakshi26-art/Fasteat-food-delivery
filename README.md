@@ -17,7 +17,7 @@ To run **Fasteat** locally, run this command on your git bash:
 Windows:
 
 ```bash
-(https://github.com/Rudrakshi26-art/Fasteat-food-delivery/tree/main/fasteat-master)
+(https://github.com/Rudrakshi26-art/Fasteat-food-delivery)
 ```
 ### License
 
