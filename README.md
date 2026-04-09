@@ -3,6 +3,7 @@
 ### Demo Screeshots
 
 ![Fasteat Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Demo link: https://rudrakshi26-art.github.io/Fasteat-food-delivery/
 
 ### Prerequisites
 
